@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ontology name="tib-test-ontology" version="0.0.1" license="GPL v3.0">
+    <description>
+        Describe the goal and audience of the ontology, refer to its main concepts and some of the comptencey questions.
+    </description>
+    <keywords>
+        <keyword>ontology</keyword>        
+        <keyword>test</keyword>
+    </keywords>
+    <authors> <!-->The first author is the correponding author<-->
+        <author firstName="Javad" lastname="Chamanara" affiliation="L3S/TIB Joint Lab" email="chamanara@l3s.de"></author>
+    </authors>
+    <!--> type: 
+        1) home: the home page of the ontology that explains and provide access to its materials. It can be the landing page on the ontology registry portal.
+        2) git: the URL of the public git repository e.g., on GitHub.
+        3) issues: the URL of the issue maganagement of the ontology so that anyone can file an issue and track its status.
+    <-->
+    <links> 
+        <source type="home" url="https://tibonto.tib.eu/ontos/tib-test-ontology"></source>
+        <source type="git" url="https://github.com/tibonto/test-onto.git"></source>
+        <source type="issues" url="https://github.com/tibonto/test-onto/issues"></source>
+    </links>
+</ontology>
